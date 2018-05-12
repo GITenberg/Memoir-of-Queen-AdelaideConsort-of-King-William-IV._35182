@@ -1,0 +1,27 @@
+_repo: Memoir-of-Queen-AdelaideConsort-of-King-William-IV._35182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doran, Dr. (John)
+    alias: Doran, John
+    birthdate: 1807
+    deathdate: 1878
+    gutenberg_agent_id: '44142'
+    url: http://www.gutenberg.org/2009/agents/44142
+description: ''
+gutenberg_issued: '2011-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adelaide, Queen, consort of William IV, King of Great Britain, 1792-1849'
+- !lcc 'DA'
+title: Memoir of Queen Adelaide, Consort of King William IV.
+url: http://www.gutenberg.org/ebooks/35182
